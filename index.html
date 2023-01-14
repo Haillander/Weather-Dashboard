@@ -28,6 +28,39 @@
                 </button>
             </div>
             <div id="past-searches-container">
-                
+                <!-- Past Searches Buttons to appear here; max button = 8 -->
             </div>
         </div>
+
+        <div id="right-body">
+            <div id="city-today-weather">
+                <div id="city-today-header">
+                    <h3 id="current-city">City + Date + icon</h3>
+                    <img id="current-climate-icon" src="" alt="an icon image of current weather condition">
+                </div>
+                <div class="py-2">
+                    <p id="today-temperature"></p>
+                    <p id="today-wind-speed"></p>
+                    <p id="today-humidity"></p>
+                </div>
+            </div>
+            <div id="5d-forecast-container" class="forecast-container">
+                <div class="forecast-heading">
+                    <h4>5-Day Forecast:</h4>
+                </div>
+                <div id="weather-forecast-card-container">
+                <!-- 5-day Weather Forecast to appear here -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"
+  integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U="
+  crossorigin="anonymous">
+</script>
+
+<script src="./assets/script.js"></script>
+</html>
