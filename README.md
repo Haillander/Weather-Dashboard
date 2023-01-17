@@ -38,18 +38,20 @@ THEN I am again presented with current and future conditions for that city
 
 * Repository Name
 
-
+Weather-Dashboard
 
 * Live Site
 
+https://haillander.github.io/Weather-Dashboard/
 
 
 * GitHub Environment
 
-
+https://github.com/Haillander
 
 * GitHub Repository
 
+https://github.com/Haillander/Weather-Dashboard
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images)
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/image/weather-dashboard.gif)
 
